@@ -1,0 +1,31 @@
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 0.1em solid;
+    height: 2em;
+    width: 8em;
+    background-color: cornflowerblue;
+}
+
+.fila2 {
+    background-color: blue;
+}
+
+.columna3 {
+    background-color: gray;
+}
+
+.celdaR {
+    background-color: blueviolet;
+}
+
+#f3c2 {
+    background-color: darkcyan;
+}
+
+#f2c3 {
+    background-color: aqua
+}
